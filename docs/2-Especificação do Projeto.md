@@ -2,13 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos representantes da Fênix Fundação em pesquisas por eles realizadas junto a Escola Municipal Ismael Junqueira de Souza e Escola Estadual Antônio Magalhães Alves (Polivalente), ambas de ensino fundamental I e II do município de São Lourenço, junto aos alunos que apresentaram as dificuldades de aprendizagem previamente relatadas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+
+![Carina Furtado](img/carina-furtado.jfif)
+
+Carina Furtado tem 10 anos de idade, é estudante do Ensino fundamental I. Utiliza os aplicativos Instagram, TikTok e YouTube. Suas motivações são pelas causas sociais e a Greta Thunberg. Frustrações: Diferenciação de classes sociais; Falta de acolhimento e incentivo; Sistema educacional. Seus hobbies são: Esportes; Artes.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -48,7 +51,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA |
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
@@ -56,8 +59,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

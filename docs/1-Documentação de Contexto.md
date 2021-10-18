@@ -61,13 +61,3 @@ Crianças e jovens de 6 a 14 anos, da rede pública de ensino, com acesso restri
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
-
-# Especificação do Projeto
-
-A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos representantes da Fênix Fundação em pesquisas por eles realizadas junto a Escola Municipal Ismael Junqueira de Souza e Escola Estadual Antônio Magalhães Alves (Polivalente), ambas de ensino fundamental I e II do município de São Lourenço, junto aos alunos que apresentaram as dificuldades de aprendizagem previamente relatadas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
-
-## Personas
-
-As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
-
-![title](img/carina-furtado.jfif)
