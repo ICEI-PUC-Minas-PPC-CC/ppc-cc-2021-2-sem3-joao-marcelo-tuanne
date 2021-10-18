@@ -70,4 +70,4 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-![title](Images/carina-furtado.jfif)
+![title](img/carina-furtado.jfif)
