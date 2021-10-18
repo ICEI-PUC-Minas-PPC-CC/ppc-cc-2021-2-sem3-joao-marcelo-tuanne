@@ -1,19 +1,17 @@
-# TÍTULO DO PROJETO
+# PROJETO AQUARELA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`2021 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- João Marcelo Danza 👨‍💻
+- Tuanne Assenço 👾
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
