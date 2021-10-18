@@ -12,6 +12,14 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 Carina Furtado tem 10 anos de idade, é estudante do Ensino fundamental I. Utiliza os aplicativos Instagram, TikTok e YouTube. Suas motivações são pelas causas sociais e a Greta Thunberg. Frustrações: Diferenciação de classes sociais; Falta de acolhimento e incentivo; Sistema educacional. Seus hobbies são: Esportes; Artes.
 
+![Elton Campelo](img/elton-campelo.jfif)
+
+Elton Campelo tem 13 anos de idade, é estudante do Ensino fundamental II. Utiliza os aplicativos Discord, Twitch e YouTube. Suas motivações são Richard Tyler Blevins e LeBron James . Frustrações: Disciplinas escolares; Desamparo emocional e psicológico; Falta de acolhimento e incentivo. Seus hobbies são: Jogos online; Luta; Basquete.
+
+![Fausto Goulart](img/fausto-goulart.jfif)
+
+Fausto Goulart tem 14 anos de idade, é estudante do Ensino fundamental II. Utiliza os aplicativos TikTok, Twitch, Discord e Instagram. Suas motivações são Neymar Jr. e Michael Phelps . Frustrações: Disciplinas escolares; Insegurança quanto ao desempenho escolar; Falta de acolhimento e incentivo. Seus hobbies são: Jogos FPS; Tênis de mesa; Nataçãp; Futebol.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
