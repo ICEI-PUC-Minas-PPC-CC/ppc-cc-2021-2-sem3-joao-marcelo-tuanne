@@ -1,7 +1,7 @@
 # PROJETO AQUARELA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Seminários III`
 `2021 - Semestre 2`
 
 ## Integrantes
