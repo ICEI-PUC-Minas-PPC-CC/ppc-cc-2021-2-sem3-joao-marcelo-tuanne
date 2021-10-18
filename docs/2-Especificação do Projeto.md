@@ -61,9 +61,12 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Criação de um aplicativo mobile (Android) de jogos educacionais | ALTA |
+|RF-002| O aplicativo deve apresentar um menu inicial para seleção do nível das atividades a serem executadas pelos alunos   | MÉDIA |
+|RF-003| O aplicativo deve permitir ao usuário interação com imagens e textos apresentados  | MÉDIA |
+|RF-004| O aplicativo pode oferecer suporte para emissão de som quando o aluno clicar em uma letra, palavra, número, etc  | MÉDIA |
+|RF-005| O aplicativo pode permitir aplicação de teste simples, com o retorno de uma avaliação de aproveitamento  | ALTA |
+|RF-006| O aplicativo pode oferecer a possibilidade de testes em formato de jogos para formação de palavras e/ou cálculos  | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -71,8 +74,9 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-001| O arquivo instalável do aplicativo deve ser compartilhado com a instituição para utilização | ALTA |
+|RNF-002| O aplicativo será utilizado em somente um aparelho mobile com SO Android que será disponibilizado para as atividades de ensino  |  ALTA |
+|RNF-003| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade   |  MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -95,8 +99,9 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 22/12/2021 |
+|02| O aplicativo deve se restringir às tecnologias básicas fornecidas pelo App Inventor |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
