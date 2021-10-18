@@ -1,7 +1,7 @@
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-AAAAAAAAAAAAAAAAAAAAAAAAAH
+
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos representantes da Fênix Fundação em pesquisas por eles realizadas junto a Escola Municipal Ismael Junqueira de Souza e Escola Estadual Antônio Magalhães Alves (Polivalente), ambas de ensino fundamental I e II do município de São Lourenço, junto aos alunos que apresentaram as dificuldades de aprendizagem previamente relatadas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
