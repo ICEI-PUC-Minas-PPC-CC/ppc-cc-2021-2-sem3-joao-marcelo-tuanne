@@ -1,7 +1,7 @@
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
+AAAAAAAAAAAAAAAAAAAAAAAAAH
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos representantes da Fênix Fundação em pesquisas por eles realizadas junto a Escola Municipal Ismael Junqueira de Souza e Escola Estadual Antônio Magalhães Alves (Polivalente), ambas de ensino fundamental I e II do município de São Lourenço, junto aos alunos que apresentaram as dificuldades de aprendizagem previamente relatadas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
@@ -41,7 +41,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Carina Furtado | Ter um desempenho melhor na escola | Aprender e melhorar na disciplina de português |
 |Elton Campelo | Ampliar meu vocabulário | Poder ter uma melhor escrita |
-|Fausto Goulart | Compreender melhor os princípios da Matemática | Conseguir resolver exercícios mais complexos |
+|Fausto Goulart | Compreender melhor a formulação de palavras | Conseguir melhorar compreensão literária |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
