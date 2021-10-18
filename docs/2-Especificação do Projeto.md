@@ -12,7 +12,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 Carina Furtado tem 10 anos de idade, é estudante do Ensino fundamental I. Utiliza os aplicativos Instagram, TikTok e YouTube. Suas motivações são pelas causas sociais e a Greta Thunberg. Frustrações: Diferenciação de classes sociais; Falta de acolhimento e incentivo; Sistema educacional. Seus hobbies são: Esportes; Artes.
 
-![Elton Campelo](img/elton-campelo.jfif)
+![Elton Campelo](img/elton-campelo2.jfif)
 
 Elton Campelo tem 13 anos de idade, é estudante do Ensino fundamental II. Utiliza os aplicativos Discord, Twitch e YouTube. Suas motivações são Richard Tyler Blevins e LeBron James . Frustrações: Disciplinas escolares; Desamparo emocional e psicológico; Falta de acolhimento e incentivo. Seus hobbies são: Jogos online; Luta; Basquete.
 
