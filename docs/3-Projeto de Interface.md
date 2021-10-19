@@ -34,7 +34,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 A tela de home-page apresenta do que se trata a aplicação, a logo do projeto e botão iniciar para o menu de opções.
 
-![Tela Inicial](img/Home Page-01.png)
+![Tela Inicial](img/HomePage-01.png)
 
 ### Tela - Menu de Opções
 
@@ -47,10 +47,14 @@ A tela de Menu de Opções apresenta as opções que o usuário possui para esco
 A tela de jogos possui diferenciação de layout de interfaces dependendo dos níveis selecionados, sendo eles: Aprendizado; Básico; Intermediário.
 
 ![Tela Jogo5](img/jogo5-17.png)
-![Tela Jogo4](img/jogo4-12.png)
+
 ![Tela Jogo3](img/jogo3-11.png)
-![Tela Jogo2](img/jogo2-04.png)
+![Tela Jogo4](img/jogo4-12.png)
+
+
 ![Tela Jogo1](img/jogoq-03.png)
+![Tela Jogo2](img/jogo2-04.png)
+
 
 
 > **Links Úteis**:
