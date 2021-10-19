@@ -11,10 +11,9 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
 ![Protótipo png](img/prototipo.PNG)
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer.
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
@@ -24,9 +23,35 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
-
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura abaixo. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+●	Tela Inicial - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+●	Menu de Opções - apresenta as opções disponíveis dentro do aplicativo;
+●	Tela de Jogos - apresenta os elementos para que os usuários interajam com o jogo que escolherem fazer.
+
+### Tela - Inicial
+
+A tela de home-page apresenta do que se trata a aplicação, a logo do projeto e botão iniciar para o menu de opções.
+
+![Tela Inicial](img/Home Page-01.png)
+
+### Tela - Menu de Opções
+
+A tela de Menu de Opções apresenta as opções que o usuário possui para escolher seu jogo.
+
+![Tela Inicial](img/opcoes-01.png)
+
+### Tela - Jogos
+
+A tela de jogos possui diferenciação de layout de interfaces dependendo dos níveis selecionados, sendo eles: Aprendizado; Básico; Intermediário.
+
+![Tela Jogo5](img/jogo5-17.png)
+![Tela Jogo4](img/jogo4-12.png)
+![Tela Jogo3](img/jogo3-11.png)
+![Tela Jogo2](img/jogo2-04.png)
+![Tela Jogo1](img/jogoq-03.png)
+
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
